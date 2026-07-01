@@ -51,12 +51,23 @@ So had Henry Card died in a similar way to the young Mr Cecil Dudley Hambrough, 
 
 ```
 
+In 1858, the railway came to Lymington, with a station in the town the line terminating at a small jetty near the town slipway.
+
 ```{image} images/waggon-horses-lymington-os-1871.png
 :alt: Ordnance Survey six inch, 1871, showing Waggon and Horses
 :align: center
 ```
 
 *Ordnance Survey six inch map, 1871, showing the Waggon and Horses pub, Walhampton, the ferry to Lymington, and the railway line. `Reproduced with the permission of the [National Library of Scotland](https://maps.nls.uk/) [CC-BY]`.*
+
+A few years later, in 1884, an extension to the line was added crossing the river and extending out to Lymington pier, providing better access to the packet steamers.
+
+```{image} images/nls-os-1896-6inch-101442165.png
+:alt:: Ordnance Survey six inch, 1898, showing Waggon and Horses
+:align: center
+```
+*Ordnance Survey six inch map, 1898, showing the Waggon and Horses pub, Walhampton, the ferry to Lymington, and the new railway line. `Reproduced with the permission of the [National Library of Scotland](https://maps.nls.uk/) [CC-BY]`.*
+
 
 The original story appeared in just a few short hours following the accident, before the gamekeeper succumbed to his injuries:
 
